@@ -70,8 +70,8 @@ nav ul li a {
 }
 
 .img-avatar {
-    height: 130px;
-    transform: rotate(15deg);
+    height: 200px;
+    transform: rotate(1deg);
     border-radius: 100%;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 2px 7px 0 rgba(0, 0, 0, 0.15);
 }
