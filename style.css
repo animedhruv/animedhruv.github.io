@@ -77,23 +77,23 @@ nav ul li a {
 }
 
 .transition {
-    height: 80%;
+    height: 100%;
     width: 100%;
-    min-height: 300px;
+    min-height: 500px;
     display: inline-flex;
-    padding: 60px;
+    padding: 100px;
 }
 
 .transition-1 {
     background-image: url(project-1.png);
-    background-image: radial-gradient(circle at 50% 50%,rgba(0,0,0,0.1),rgba(0,0,0,0.35)),url(img/project-1.png);
+    background-image: radial-gradient(circle at 70% 70%,rgba(0,0,0,0.1),rgba(0,0,0,0.35)),url(img/project-1.png);
     background-size: cover;
     background-attachment: fixed;
 }
 
 .transition-2 {
     background-image: url(project-2.png);
-    background-image: radial-gradient(circle at 50% 50%,rgba(0,0,0,0.1),rgba(0,0,0,0.35)),url(img/project-2.png);
+    background-image: radial-gradient(circle at 70% 70%,rgba(0,0,0,0.1),rgba(0,0,0,0.35)),url(img/project-2.png);
     background-size: cover;
     background-attachment: fixed;
 }
