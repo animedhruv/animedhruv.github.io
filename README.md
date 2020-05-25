@@ -1,3 +1,3 @@
 # Dhruvgarg
 my personal website
-currently static ,not in progress
+,currently static ,not in progress
