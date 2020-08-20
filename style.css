@@ -9,7 +9,10 @@ html, body {
     font-family: work sans;
     text-align: justify;
 }
-
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 @media (max-width: 600px) {
     body {
         text-align: left;
